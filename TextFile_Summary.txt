@@ -1,0 +1,7 @@
+Compared DuckDuckGo performance against Google's dataset using set of queries.
+After analyzing the results, I found that the:
+
+1.Percent overlap between DuckDuckGo and Google was only 25.3%, indicating that just around 25% of URLs were common across both search engines.
+2.Additionally, the average Spearman coefficient was 0.009, reflecting a weak alignment between the rankings of both engines.
+3.Given that DuckDuckGo produced significantly different results from Google and performed worse in terms of both overlap and ranking consistency
+
